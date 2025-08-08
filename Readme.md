@@ -9,4 +9,4 @@ Key skills learned:
 • Data handling and reporting  
 • App customization  
 
-This repository contains files and resources related to the internship tasks and final project.  
+This repository contains files and resources related to the internship tasks and final project.
